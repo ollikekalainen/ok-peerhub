@@ -1,0 +1,8 @@
+*.exe
+*.bak
+--dev-*.*
+_min-*.*
+--min-*.*
+browserside/prepare.bat
+*.sublime-project
+*.sublime-workspace

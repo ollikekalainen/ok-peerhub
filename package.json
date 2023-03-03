@@ -1,0 +1,28 @@
+{
+  "main": "ok-peerhub.js",
+  "name": "ok-peerhub",
+  "version": "1.0.0",
+  "description": "Peer-to-peer extension for ok-server implemented with websocket",
+  "dependencies": {
+    "ws": ">= 8.12.0"
+  },
+  "scripts": {
+  },
+  "engines": {
+    "node": ">= 14.16.0"
+  },
+  "bugs": "https://github.com/ollikekalainen/ok-peerhub/issues",
+  "keywords": [
+    "javascript",
+    "peer-to-peer",
+    "p2p",
+    "websocket"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ollikekalainen/ok-peerhub.git"
+  },
+  "homepage": "https://github.com/ollikekalainen/ok-peerhub",
+  "author": "Olli Kekäläinen",
+  "license": "MIT"
+}
